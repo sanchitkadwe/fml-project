@@ -20,5 +20,5 @@ Dataset Link: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-data
 2) We performed Feature Scaling and Data Cleaning and fed the data to various Classification Models.
 3) These ML Models were: SVM, Decision Tree, Random Forest, Logistic Regression and KNN.
 4) We obtained an accuracy of around 87%, but it couldn't be improved further.
-5) Thus, we modified our approach to process Audio Files, <a href="https://github.com/sanchitkadwe/fml-project/tree/main/Exploring%20Mel-Spectrograms">Explore Mel-Spectograms</a>, train them using CNN, and get accurate results.
+5) Thus, we modified our approach to process Audio Files, <a href="https://github.com/sanchitkadwe/fml-project/tree/main/Exploring%20Mel-Spectrograms">Explore Mel-Spectrograms</a>, train them using CNN, and get accurate results.
 6) In all, we achieved a Validation Accuracy of 94%, so we finalized this Classifier Model and built a web app to provide predictions on test audio files.
