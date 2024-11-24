@@ -25,7 +25,7 @@ Dataset Link: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-data
 
 
 ## CNN Model Architecture
-<img width="377" alt="image" src="https://github.com/user-attachments/assets/dd9ec0c7-29b0-49f2-b25e-fb63d91a7303">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/dd9ec0c7-29b0-49f2-b25e-fb63d91a7303">
 
 ## Results
 Following are the Accuracy and Loss Plots for the Model:<br>
