@@ -28,6 +28,10 @@ Dataset Link: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-data
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/dd9ec0c7-29b0-49f2-b25e-fb63d91a7303">
 
 ## Results
-Following are the Accuracy and Loss Plots for the Model:
-<img width="377" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/Output%20Graphs/Accuracy%20Graph.png"><br>
+Following are the Accuracy and Loss Plots for the Model:<br>
+<img width="377" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/Output%20Graphs/Accuracy%20Graph.png">
 <img width="377" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/Output%20Graphs/Loss%20Graph.png">
+
+## Web-App
+The web app for Music Genre Classification can be accessed <a href="https://cs725-genreclassifier.streamlit.app/">HERE</a><br><br>
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/34cfb690-6ace-4fad-803d-d4bdada7eee0">
