@@ -84,3 +84,18 @@ Confusion Matrix and Classification Report can be found <a href="https://github.
 ## Web-App
 The web app for Music Genre Classification can be accessed <a href="https://cs725-genreclassifier.streamlit.app/">HERE</a><br><br>
 <img width="872" alt="image" src="https://github.com/user-attachments/assets/34cfb690-6ace-4fad-803d-d4bdada7eee0">
+
+## Future Work
+1) Doing Hyperparameter Tuning and coming up with a better model than the current Implementation.
+2) Balancing the Dataset, to avoid misclassifications for a specific Genre. (Rock Genre has more misclassifications currently.)
+3) Combining Mel-Spectrogram and CSV Features and analyzing the effect on Model Training and Evaluation.
+
+## References
+<ul>
+    <li><a href="https://www.clairvoyant.ai/blog/music-genre-classification-using-cnn">Music Genre Classification Using CNN - Clairvoyant AI</a></li>
+    <li><a href="https://paperswithcode.com/dataset/gtzan">GTZAN Dataset - Papers with Code</a></li>
+    <li><a href="https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53">Understanding the Mel Spectrogram - Analytics Vidhya</a></li>
+    <li><a href="https://medium.com/@namratadutt2/music-genre-classification-using-cnn-part-2-classification-ee5400cfbc4f">Music Genre Classification Using CNN (Part 2) - Medium</a></li>
+    <li><a href="https://youtu.be/KW6585XMV3c?si=AkLzthzMceVdHmuw">Music Genre Classification Video Tutorial - YouTube</a></li>
+</ul>
+
