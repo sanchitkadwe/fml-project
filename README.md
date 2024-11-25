@@ -26,7 +26,7 @@ Dataset Link: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-data
 
 ## CNN Model Architecture
 <img width="377" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/CNN%20Model%20Architecture/Model%20Overview.png">
-<img width="377" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/CNN%20Model%20Architecture/Model%20Layers.png">
+Detailed Model Implementation (Layers & Parameters): Click <a href="https://github.com/sanchitkadwe/fml-project/blob/main/CNN%20Model%20Architecture/Model%20Layers.png">Here</a>
 
 ## Results
 Following are the Accuracy and Loss Plots for the Model:<br>
