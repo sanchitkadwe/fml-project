@@ -21,18 +21,25 @@ Dataset Link: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-data
 3) These ML Models were: SVM, Decision Tree, Random Forest, Logistic Regression and KNN.
 4) We obtained an accuracy of around 87%, but it couldn't be improved further.
 5) Thus, we modified our approach to process Audio Files, <a href="https://github.com/sanchitkadwe/fml-project/tree/main/Exploring%20Mel-Spectrograms">Explore Mel-Spectrograms</a>, train them using CNN, and get accurate results.
-6) In all, we achieved a Validation Accuracy of 94%, so we finalized this Classifier Model and built a web app to provide predictions on test audio files.
+6) Overall, we achieved a Validation Accuracy of 95%, so we finalized this Classifier Model and built a web app to provide predictions on test audio files.
 
 
 ## CNN Model Architecture
 <img width="377" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/CNN%20Model%20Architecture/Model%20Overview.png">
-Detailed Model Implementation (Layers & Parameters): Click <a href="https://github.com/sanchitkadwe/fml-project/blob/main/CNN%20Model%20Architecture/Model%20Layers.png">Here</a>
+Detailed Model Implementation (Layers & Parameters) : Click <a href="https://github.com/sanchitkadwe/fml-project/blob/main/CNN%20Model%20Architecture/Model%20Layers.png">Here</a>
 
 ## Results
 Following are the Accuracy and Loss Plots for the Model:<br>
 <img width="500" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/Output%20Graphs/Accuracy%20Graph.png">
 <img width="400" alt="image" src="https://github.com/sanchitkadwe/fml-project/blob/main/Output%20Graphs/Loss%20Graph.png"><br>
 Confusion Matrix and Classification Report can be found <a href="https://github.com/sanchitkadwe/fml-project/tree/main/Output%20Graphs">Here</a>
+
+## Enhancements Done with Reference Models that boosted Accuracy:
+1) Alternating Filter Sizes of 3 x 3 and 5 x 5 for Convolution Layers
+2) Additional Dense Layer of 256 units in Fully Connected Block
+3) 'Padding=same' kept for all Convolutional Layers
+4) Modified Random Seed for Train-Test-Split
+5) Changed Number of Epochs
 
 ## Web-App
 The web app for Music Genre Classification can be accessed <a href="https://cs725-genreclassifier.streamlit.app/">HERE</a><br><br>
